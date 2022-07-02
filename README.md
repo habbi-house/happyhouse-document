@@ -48,7 +48,38 @@ https://user-images.githubusercontent.com/49544744/177007183-f7fb8ab9-4dbe-4c25-
 
 <br/>
 
-### 팀 소개
+### 💼 팀 소개
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/wasiwasi" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/49544744?v=4" alt="강봉민 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/kanchoeun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/28130151?v=4" alt="조혜은 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      👨🏻‍💻
+      <a href="https://github.com/wasiwasi" target="_blank">
+        강봉민
+      </a>
+    </td>
+    <td align="center">
+      👩🏻‍💻
+      <a href="https://github.com/kanchoeun" target="_blank">
+        조혜은
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 | 이름 | 기능 | 개발 상세 내용 |
 | :---: | :---: | --- |
