@@ -42,6 +42,10 @@
 
 ### 🎞 Demo 영상
 
+
+https://user-images.githubusercontent.com/49544744/177007183-f7fb8ab9-4dbe-4c25-98c8-5d6af207e7d7.mp4
+
+
 <br/>
 
 ### 팀 소개
