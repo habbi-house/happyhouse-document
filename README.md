@@ -31,16 +31,29 @@
 
 ### 🗂 프로젝트 구조
 
+<img src="./resources/img/arch.png" />
+
+<br/>
 
 ### 📝 프로젝트 기능
 
 
+<br/>
+
 ### 🎞 Demo 영상
 
-<video width="100%" height="100%" controls="controls">
-  <source src="./resources/video/demo_video.mp4" type="video/mp4" />
-</video>
+<br/>
 
+### 팀 소개
 
+| 이름 | 기능 | 개발 상세 내용 |
+| :---: | :---: | --- |
+| 강봉민<br/>(Front-end & Back-end) | 회원 관리 |  - 일반 회원 가입 구현<br/>- 회원 정보 수정, 탈퇴 구현<br/>- 로그인, 로그아웃 구현<br/>- 카카오 OAuth 로그인 구현<br/>- JWT를 이용한 토큰 생성 및 로그인 관리<br/>- 사용자 관심 매물 목록 관리 |
+|  | 실거래가 조회 |  - 사용자 음성을 이용한 아파트 검색 구현 |
+|  | 게시판 관리 |  - 게시글 작성 구현<br/>- 게시글 수정, 삭제 구현<br/>- 답글 기능 구현<br/>- 게시글 조회 결과 제목으로 검색 |
+| 조혜은<br/>(Front-end & Back-end) | 표정 분석 |  - 웹캠 연결 후 촬영한 이미지 파일 생성<br/>- Amazon S3 연동하여 이미지 파일 업로드<br/>- Azure Face API 활용한 사용자 표정 분석 |
+|  | 보안 |  - BCrypt를 이용한 비밀번호 암호화<br/>- Lucy Filter를 이용한 Reflected XSS 방어 |
+|  | 실거래가 조회 |  - 아파트 목록 렌더링<br/>- 아파트 상세 정보 렌더링<br/>- 아파트 단위로 검색 결과 렌더링 |
+|  | 게시판 관리 |  - 게시글 목록 조회<br/>- 게시글 조회 |
 
 
